@@ -1,0 +1,8 @@
+Rename files as 
+
+.gitignore
+.gitattributes
+
+and remove .txt extension
+
+and type files that you do not need to upload at git in .gitignore and put it in local repo e.g. files like wp-admin or db file
